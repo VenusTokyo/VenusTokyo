@@ -1,19 +1,20 @@
 [![MasterHead](https://github.com/VenusTokyo/VenusTokyo/blob/main/ezgif-2-bc2bb231a8.gif)](https://github.com/VenusTokyo)
 <h1 align="center">Hi 👋, I'm Shrutika Shaw</h1>
-<h3 align="center">A Learner, Reader, Artist and Developer from India.</h3>
+<h3 align="center">:sparkles:A Learner, Reader, Artist and Developer from India.:sparkles:</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=venustokyo&label=Profile%20views&color=0e75b6&style=flat" alt="venustokyo" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venustokyo&title=Stars,Followers,MultiLanguage,Repositories,Commits,PullRequest&theme=dracula&no-frame=true" alt="" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venustokyo&title=Stars,Followers,Repositories,Commits,PullRequest,Issues&theme=dracula&no-frame=true" alt="" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/VenusTokyo/VenusTokyo/blob/main/lofi%20girl.gif">
-- 🌱 I’m currently learning **Web Development**
+
+- 🌱 I’m currently learning **Web Development** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/VenusTokyo](https://github.com/VenusTokyo)
 
 - 📫 How to reach me **shrutika.shaw2015@gmail.com**
 
-- ⚡ Fun fact **I love to read books(fiction)**
+- ⚡ Fun fact **I love to read books(fiction), I paint and skech :art: and also I know how to play guitar:sparkles:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
