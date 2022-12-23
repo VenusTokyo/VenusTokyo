@@ -4,7 +4,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=venustokyo&label=Profile%20views&color=0e75b6&style=flat" alt="venustokyo" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venustokyo&title=Stars,Followers,Repositories,Commits,PullRequest,Issues&theme=dracula&no-frame=true" alt="" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venustokyo&title=Stars,Followers,Repositories,Commits,PullRequest,Issues&theme=radical&no-frame=true" alt="" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/VenusTokyo/VenusTokyo/blob/main/lofi%20girl.gif">
 
