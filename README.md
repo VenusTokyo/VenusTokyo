@@ -11,7 +11,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/VenusTokyo/VenusTokyo/blob/main/lofi%20girl.gif">
 
-- 🌱 I’m currently learning **Frontent Development** 
+- 🌱 I’m currently learning **Frontend Development** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/VenusTokyo](https://github.com/VenusTokyo)
 
