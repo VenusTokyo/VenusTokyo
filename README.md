@@ -1,6 +1,6 @@
 <div align ="center">
 
-![image](https://user-images.githubusercontent.com/66830887/222111025-127a4463-c2a8-4df6-9bf8-e2ecbec814d2.png)
+![image](https://github.com/VenusTokyo/VenusTokyo/blob/main/github%20banner.png)
 </div>
 <h1 align="center">Hi 👋, I'm Shrutika Shaw</h1>
 <h3 align="center">:sparkles:A Learner, Reader, Artist and Developer from India.:sparkles:</h3>
@@ -56,6 +56,7 @@ _Frontend_ 💄
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+[![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
 
 _Backend_ 🕸️
 
