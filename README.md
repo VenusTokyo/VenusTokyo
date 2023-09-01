@@ -11,28 +11,34 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/VenusTokyo/VenusTokyo/blob/main/lofi%20girl.gif">
 
-- 🌱 I’m currently learning **Frontend Development** 
+- 🌱 I’m currently **Contributing to Open Source Projects** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/VenusTokyo](https://github.com/VenusTokyo)
 
 - 📫 How to reach me **shrutika.shaw2015@gmail.com**
 
-- 🚀 My Resume here 👉 [Click Me💖](https://drive.google.com/file/d/1eCJzhvpzf7Q9TD-TIpJDD7_K6td7_lGL/view?usp=sharing)
+- 🚀 My Resume here 👉 [Click Me💖](https://drive.google.com/file/d/1ldMrQcp73t_ZfsSCJ30V3cnsf2O7F2mU/view?usp=sharing)
 
 - ⚡ Fun fact **I love to read books(fiction), I paint and skech :art: and also I know how to play guitar:sparkles:**
 
-<h3 align="left">Connect with me 😊:</h3>
+<h3 align="center">Connect with me 😊:</h3>
 
-
+<div align="center">
+  
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrutika-shaw/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/quiteironical)
 [![Instagram](https://img.shields.io/badge/Instagram-D44638?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/quite_ironical/)
 
+</div>
+<div align="center">
+
 ![image](https://user-images.githubusercontent.com/66830887/222110736-58664320-1db9-4f9a-a14e-3700a1d455d4.png)
 
+</div>
+<h3 align="center">Languages and Tools:</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-
+<div align="center">
+  
 _Languages_ 🪄
 
 [![C++](https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=c%2B%2B&&logoColor=white)]()
@@ -67,8 +73,10 @@ _Miscellaneous_ 🐤
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
 [![vsCode](https://img.shields.io/badge/vsCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 
+</div>
 
-
+<div align="center">
+  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=venustokyo&show_icons=true&theme=aura&locale=en&layout=compact" alt="venustokyo" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venustokyo&show_icons=true&theme=aura&locale=en" alt="venustokyo" /></p>
@@ -77,7 +85,6 @@ _Miscellaneous_ 🐤
 <br>
 <a href="http://www.github.com/VenusTokyo"><img src="https://activity-graph.herokuapp.com/graph?username=VenusTokyo&bg_color=171717&color=ffffff&line=14b8a6&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="300px" />
+</div>
 
 ![image](https://user-images.githubusercontent.com/66830887/222113007-f4812e1f-17ad-47be-8e54-56f3359b1869.png)
