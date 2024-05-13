@@ -7,7 +7,12 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=venustokyo&label=Profile%20views&color=0e75b6&style=flat" alt="venustokyo" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venustokyo&title=Stars,Followers,Repositories,Commits,PullRequest,Issues&theme=radical&no-frame=true" alt="" /></a> </p>
+<p align="center"> 
+  <a align="center" href="https://github.com/ryo-ma/github-profile-trophy">
+    <img align="center" display='flex' justify-self='center' src="https://github-profile-trophy.vercel.app/?username=venustokyo&title=Joined2020,Stars,Followers,Repositories,Commits,Experience,PullRequest,Issues&theme=radical&no-frame=true" alt="" />
+    
+  </a> 
+</p>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/VenusTokyo/VenusTokyo/blob/main/lofi%20girl.gif">
 
@@ -17,7 +22,9 @@
 
 - 📫 How to reach me **shrutika.shaw2015@gmail.com**
 
-- 🚀 My Resume here 👉 [Click Me💖](https://drive.google.com/file/d/1ldMrQcp73t_ZfsSCJ30V3cnsf2O7F2mU/view?usp=sharing)
+- 🚀 My Resume here 👉 [Click Me💖](https://drive.google.com/file/d/1wCOdr7o23AhxuwynkIELW-W8M16xU32Z/view?usp=drive_link)
+
+- 💄My Portfolio Website 👉 [Click Me💙](https://shrutikas-portfolio.vercel.app/)
 
 - ⚡ Fun fact **I love to read books(fiction), I paint and skech :art: and also I know how to play guitar:sparkles:**
 
@@ -84,7 +91,10 @@ _Miscellaneous_ 🐤
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venustokyo&theme=radical" alt="venustokyo" /></p>
 <br>
-<a href="http://www.github.com/VenusTokyo"><img src="https://activity-graph.herokuapp.com/graph?username=VenusTokyo&bg_color=171717&color=ffffff&line=14b8a6&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a >
+  <img height=300 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=VenusTokyo&theme=github-compact" loading="lazy"/>
+</a>
+
 
 </div>
 
