@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **shrutika.shaw2015@gmail.com**
 
-- 🚀 My Resume here 👉 [Click Me💖](https://drive.google.com/file/d/1wCOdr7o23AhxuwynkIELW-W8M16xU32Z/view?usp=drive_link)
+- 🚀 My Resume here 👉 [Click Me💖](https://drive.google.com/file/d/1m9etJJmRQGNwPfkRwWruCwyMoIWwWo1d/view?usp=sharing)
 
 - 💄My Portfolio Website 👉 [Click Me💙](https://shrutikas-portfolio.vercel.app/)
 
